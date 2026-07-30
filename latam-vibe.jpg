@@ -1,11 +1,12 @@
 <!doctype html>
-<html lang="en">
+<html lang="es">
   <head>
     <meta charset="UTF-8" />
     <meta name="viewport" content="width=device-width, initial-scale=1.0" />
-    <title>cafeina.ai</title>
-    <script type="module" crossorigin src="./assets/index-D8tiI9RJ.js"></script>
-    <link rel="stylesheet" crossorigin href="./assets/index-BYtpCp7q.css">
+    <title>cafeina.ai - Apps con IA para Latinoamerica</title>
+    <meta name="description" content="Crea apps sin saber programar. La plataforma de IA para Latinoamerica." />
+    <script type="module" crossorigin src="./assets/index-54mlsna1.js"></script>
+    <link rel="stylesheet" crossorigin href="./assets/index-Dv09Xpn-.css">
   </head>
   <body>
     <div id="root"></div>
